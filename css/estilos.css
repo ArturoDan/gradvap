@@ -1,0 +1,305 @@
+a.nav-link{
+    font-family: 'Bitter', serif;
+    font-size: 20px;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+.info-text{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 18px;
+}
+
+.input-form-style-2{
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	display: block;
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #ddd;
+    background: transparent;
+    background-color:#6c757d;
+    background-image: url(https://subtlepatterns.com/patterns/triangular.png);
+	margin-bottom: 10px;
+	font: 16px Arial, Helvetica, sans-serif;
+	height: 45px;
+}
+.icon-input{
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	display: block;
+	border: none;
+	border-bottom: 1px solid #ddd;
+    background: transparent;
+    background-color:#6c757d;
+    background-image: url(https://subtlepatterns.com/patterns/triangular.png);
+	margin-bottom: 10px;
+	font: 16px Arial, Helvetica, sans-serif;
+	height: 45px;
+}
+input.input-form-style-2:focus{
+        background:linear-gradient(to bottom, #6c757d 5%, #6c757d 100%);
+        background-color:#6c757d;
+        background-image: url(https://subtlepatterns.com/patterns/triangular.png);
+        outline:none !important;
+        outline-offset: 0;
+       box-shadow: none;
+       border-bottom: 1px solid #ddd;
+}
+
+textarea.input-form-style-2:focus{
+        background:linear-gradient(to bottom, #6c757d 5%, #6c757d 100%);
+        background-color:#6c757d;
+        background-image: url(https://subtlepatterns.com/patterns/triangular.png);
+        outline:none !important;
+        outline-offset: 0;
+       box-shadow: none;
+       border-bottom: 1px solid #ddd;
+}
+
+select.input-form-style-2:focus{
+    background:linear-gradient(to bottom, #6c757d 5%, #6c757d 100%);
+        background-color:#6c757d;
+        background-image: url(https://subtlepatterns.com/patterns/triangular.png);
+        outline:none !important;
+        outline-offset: 0;
+       box-shadow: none;
+       border-bottom: 1px solid #ddd;
+}
+
+.input-form-style-3{
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	display: block;
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #ddd;
+    background: transparent;
+    background-color:#6c757d;
+    background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/retina_wood.png);
+	margin-bottom: 10px;
+	font: 16px Arial, Helvetica, sans-serif;
+	height: 45px;
+}
+.icon-input-2{
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	display: block;
+	border: none;
+	border-bottom: 1px solid #ddd;
+    background: transparent;
+    background-color:#6c757d;
+    background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/retina_wood.png);
+	margin-bottom: 10px;
+	font: 16px Arial, Helvetica, sans-serif;
+	height: 45px;
+}
+input.input-form-style-3:focus{
+        background:linear-gradient(to bottom, #6c757d 5%, #6c757d 100%);
+        background-color:#6c757d;
+        background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/retina_wood.png);
+        outline:none !important;
+        outline-offset: 0;
+       box-shadow: none;
+       border-bottom: 1px solid #ddd;
+}
+
+textarea.input-form-style-3:focus{
+        background:linear-gradient(to bottom, #6c757d 5%, #6c757d 100%);
+        background-color:#6c757d;
+        background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/retina_wood.png);
+        outline:none !important;
+        outline-offset: 0;
+       box-shadow: none;
+       border-bottom: 1px solid #ddd;
+}
+
+select.input-form-style-3:focus{
+    background:linear-gradient(to bottom, #6c757d 5%, #6c757d 100%);
+        background-color:#6c757d;
+        background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/retina_wood.png);
+        outline:none !important;
+        outline-offset: 0;
+       box-shadow: none;
+       border-bottom: 1px solid #ddd;
+}
+
+#parallax-image{
+    background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/retina_wood.png);
+    height: 500px;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#parallax-image1{
+    background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/retina_wood.png);
+    height: 500px;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.comentary-text{
+    font-size: 15px;
+}
+
+.presentation-image {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.center-image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  #fondo {
+	background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/shutterstock_554489575.jpg);
+	padding: 200px 100px;
+	text-align: center;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+#fondo:before {
+	content:'';
+	position: absolute;
+        top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.6);
+}
+
+#fondo h1 {
+	font-size: 60px;
+	color: #fff;
+    position: relative;
+    font-family: 'Zilla Slab', serif;
+    
+}
+
+#fondo h3 {
+	color: #fff;
+	position: relative
+}
+
+.parallax {
+    /* The image used */
+    background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/shutterstock_682552993.jpg);
+  
+    /* Set a specific height */
+    min-height: 200px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax2 {
+    /* The image used */
+    background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/Comedores-industriales.jpg);
+  
+    /* Set a specific height */
+    min-height: 200px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax3 {
+    /* The image used */
+    background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/shutterstock_594074969.jpg);
+  
+    /* Set a specific height */
+    min-height: 200px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax4 {
+    /* The image used */
+    background-image: url(file:///C:/Users/poiso/Desktop/gradvap/images/shutterstock_554489575.jpg);
+  
+    /* Set a specific height */
+    min-height: 200px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .center-dist-text {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .form-text-servicio{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 22px;
+  }
+
+  .presentation-text{
+    font-family: 'Seymour One', sans-serif;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  background-image: none;
+  }
+  
+  .carousel-control-next-icon:after
+  {
+  content: '>';
+  font-size: 55px;
+  color: red;
+  }
+  
+  .carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: red;
+  }
+  
+  .text-comentary{
+    margin: auto;
+    padding: 40px;
+  }
